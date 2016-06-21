@@ -1,0 +1,43 @@
+
+  Series
+    Learning Phoenix
+    Learning Elixir
+
+  Episode
+    Setting up authentication
+
+
+  # Allow creation of a series
+    - A series has a name, notes, tags
+    - has many episodes
+
+  # An episode has a title, embed_code, notes, tags
+
+  # A user should be able to search episodes, series, tags, notes
+  # A user should be able to favorite an episode/series
+  # A user should be able to view a tag page with all the associated videos
+  # A user should see suggested/similar videos beneath a video
+  # Sorting/Pagination
+
+  # RSS feed of episodes
+  # RSS feed for tags
+  # Allow a user to suggest for an episode
+  # Allow users to upvote/downvote a suggestion
+  # Allow users to comment on suggestions
+  # Send notifications to subscribed users via email
+
+  # Allow users to register using Github/Twitter/Facebook or an Email/Password
+    - Email/Password
+    - Github
+    - Twitter
+    - Facebook
+
+  # A chat room/forum using Elm
+    - for topics
+    - for each episode/series
+
+  # A user should be able to buy a screencast series for commercial use
+    - using paypal
+    - using stripe/braintree?
+
+  # A user should be able to buy a subscription to the site via Paypal/Stripe
